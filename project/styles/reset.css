@@ -1,0 +1,49 @@
+/*******************
+ Box Sizing
+ *******************/
+ html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+  /*******************
+     Core body defaults
+     @see https://hankchizljaw.com/wrote/a-modern-css-reset/
+     *******************/
+  body {
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+  }
+  
+  /****************************
+   Generic Margins and Paddings
+   ****************************/
+  body,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  ul,
+  ol,
+  li,
+  p,
+  pre,
+  blockquote,
+  figure,
+  figcaption,
+  hr,
+  dl,
+  dd {
+    margin: 0;
+    padding: 0;
+  }
+  
