@@ -34,7 +34,11 @@ Por fim, clone um projeto para começar a trabalhar. Ou inicie um projeto git at
 
 ## Capítulo II: Trabalhando em equipe
 
-<!-- ### Como juntar o trabalho realizado? -->
+Este capítulo apresenta a branch principal, `main`, refletindo o trabalho de uma equipe qualquer.  
+Ela possui alguns _commits_ que configuram o projeto, porém, a partir de um certo ponto, novas _branches_ de trabalho foram criadas a partir dela.
+
+O diagrama abaixo apresenta este momento do projeto:
+![Fonte: Autor](./starting.png)
 
 ### Mantendo seu trabalho atualizado
 
